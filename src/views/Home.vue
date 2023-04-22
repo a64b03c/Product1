@@ -11,11 +11,11 @@ import mainBanner from "../components/Home/mainBanner.vue";
     </div>
   </section>
   <topBar />
-  <div class="news-wrap">
+  <section class="news-wrap">
     <newsCard><h3>副標題副標副標題</h3></newsCard>
     <newsCard><h3>副標題副標題副標題副標題</h3></newsCard>
     <newsCard><h3>副標題副標題副標題副標題</h3></newsCard>
-  </div>
+  </section>
 </template>
 
 <style lang="scss" scoped>
